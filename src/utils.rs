@@ -1,3 +1,3 @@
 pub fn test()->String{
-    "test artwebs"
+    "test artwebs".to_string()
 }
