@@ -1,5 +1,5 @@
 [package]
-name = "ao"
+name = "ao-rust"
 version = "0.1.0"
 authors = ["artwebs <artwebs@126.com>"]
 
